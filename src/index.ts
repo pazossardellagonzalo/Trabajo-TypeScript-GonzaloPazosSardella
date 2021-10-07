@@ -7,7 +7,7 @@ if(a%2==0) {    // Hacemos un if para comprobar si el numero es primo o no
 console.log(`El número ${a} no es primo`);
 }
 else {
-console.log(`El número ${a} es primo`);
+console.log(`El número ${a} es primo`); 
 }     
 
 //Separación entre ejercicios
