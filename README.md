@@ -1,6 +1,7 @@
 # Proyecto nodejs
 
 Contiene 📋: 
+
     * doc : Contenido documentado en PDF.
     * src : Carpeta con el codigo de los ejercicios
     * .gitignore
