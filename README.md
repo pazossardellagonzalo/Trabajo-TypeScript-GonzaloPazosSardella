@@ -1,10 +1,10 @@
 # Proyecto nodejs
 
 Contiene 📋: 
-    - doc : Contenido documentado en PDF.
-    - src : Carpeta con el codigo de los ejercicios
-    - .gitignore
-    - README.md información del proyecto
+    * doc : Contenido documentado en PDF.
+    * src : Carpeta con el codigo de los ejercicios
+    * .gitignore
+    * ReadMe Información del proyecto
 
 ## Construido con 🛠️
 
